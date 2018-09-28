@@ -1,9 +1,7 @@
-#! /bin/s
+#! /bin/sh
 
-# Analyze PAD sequencing data 
-# Author: KD
-# Date:   2017/01/12
-# Institute: mayo 
+# Combine g.VCF files 
+# Institute: Mayo Clinic
 
 
 # reference genome (b37), dbsnp
